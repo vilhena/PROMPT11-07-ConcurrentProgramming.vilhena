@@ -1,0 +1,5 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\AsyncUtils\bin\Debug\AsyncUtils.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\AsyncUtils\bin\Debug\AsyncUtils.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\AsyncUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\AsyncUtils\obj\Debug\AsyncUtils.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\AsyncUtils\obj\Debug\AsyncUtils.pdb

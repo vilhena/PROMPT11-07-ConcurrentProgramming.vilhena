@@ -1,0 +1,179 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="677" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="3228" fromTop="28" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="2856" fromTop="23" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="2856" fromTop="18" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="1787" fromTop="14" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="4289" fromTop="15" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="4358" fromTop="19" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="3509" fromTop="9" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="3883" fromTop="16" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="4543" fromTop="17" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="2602" fromTop="19" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="1980" fromTop="10" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="2975" fromTop="24" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="4701" fromTop="11" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="3222" fromTop="18" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="563" fromTop="18" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="314" fromTop="7" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="1654" fromTop="12" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="4919" fromTop="25" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="1059" fromTop="10" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="1440" fromTop="17" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="4070" fromTop="12" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="4894" fromTop="19" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="946" fromTop="11" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="1669" fromTop="29" />
+      <File id="F230ED40-C9DE-42DD-B390-AF67B332EA24/f:Program.cs" caret="5218" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="static" priority="1" />
+      <Item value="params" priority="0" />
+      <Item value="tasks" priority="2" />
+      <Item value="TaskCompletionSource" priority="1" />
+      <Item value="int" priority="4" />
+      <Item value="object" priority="1" />
+      <Item value="new" priority="19" />
+      <Item value="TaskCompletionSource&lt;object&gt;" priority="0" />
+      <Item value="T`0" priority="5" />
+      <Item value="Task`0" priority="8" />
+      <Item value="foreach" priority="0" />
+      <Item value="task" priority="16" />
+      <Item value="AsParallel`0" priority="0" />
+      <Item value="tcs" priority="9" />
+      <Item value="t" priority="15" />
+      <Item value="return" priority="10" />
+      <Item value="var" priority="2" />
+      <Item value="while" priority="1" />
+      <Item value="GetFirstResult`1" priority="0" />
+      <Item value="t1" priority="1" />
+      <Item value="if" priority="5" />
+      <Item value="Length" priority="0" />
+      <Item value="Interlocked`0" priority="0" />
+      <Item value="ref" priority="1" />
+      <Item value="count" priority="0" />
+      <Item value="CancellationToken`0" priority="0" />
+      <Item value="cancellationToken" priority="0" />
+      <Item value="t3" priority="0" />
+      <Item value="Console`0" priority="3" />
+      <Item value="result" priority="0" />
+      <Item value="throw" priority="4" />
+      <Item value="AbandonedMutexException" priority="1" />
+      <Item value="AccessViolationException" priority="0" />
+      <Item value="AggregateException" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="AggregateException`0" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="Task&lt;T&gt;" priority="2" />
+      <Item value="Timer`0" priority="3" />
+      <Item value="Timer" priority="1" />
+      <Item value="TimeoutException" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="timeout" priority="3" />
+      <Item value="Program`0" priority="1" />
+      <Item value="Created" priority="0" />
+      <Item value="default" priority="0" />
+      <Item value="timer" priority="1" />
+      <Item value="ParallelOptions`0" priority="0" />
+      <Item value="_" priority="1" />
+      <Item value="Exception" priority="1" />
+      <Item value="TimeoutException`0" priority="0" />
+      <Item value="IsFaulted" priority="0" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="tt" priority="1" />
+      <Item value="Math`0" priority="0" />
+      <Item value="Timeout`0" priority="0" />
+      <Item value="TaskScheduler`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Task">
+      <Item value="Factory" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskFactory">
+      <Item value="StartNew`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.ParallelQuery`1">
+      <Item value="ForAll`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskCompletionSource`1">
+      <Item value="TrySetResult`0" priority="1" />
+      <Item value="SetResult`0" priority="1" />
+      <Item value="Task" priority="2" />
+      <Item value="SetException`0" priority="2" />
+      <Item value="TrySetException`0" priority="0" />
+      <Item value="SetCanceled`0" priority="0" />
+      <Item value="TrySetCanceled`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.Task`1">
+      <Item value="Result" priority="7" />
+      <Item value="ContinueWith`1" priority="2" />
+      <Item value="Start`0" priority="3" />
+      <Item value="IsCompleted" priority="0" />
+      <Item value="IsFaulted" priority="0" />
+      <Item value="Exception" priority="0" />
+      <Item value="CreationOptions" priority="0" />
+      <Item value="Status" priority="0" />
+      <Item value="WithTimeout`1" priority="1" />
+      <Item value="IsCanceled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Interlocked">
+      <Item value="CompareExchange`1" priority="0" />
+      <Item value="Decrement`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="GetType`0" priority="0" />
+      <Item value="InnerException" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.AggregateException">
+      <Item value="InnerExceptions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ReadOnlyCollection`1">
+      <Item value="First`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GetFirst.Program">
+      <Item value="GetFirstResult`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Timer">
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Timeout">
+      <Item value="Infinite" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

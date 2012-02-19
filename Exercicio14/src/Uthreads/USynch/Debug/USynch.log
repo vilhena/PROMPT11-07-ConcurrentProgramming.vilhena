@@ -1,0 +1,31 @@
+﻿Build started 02-02-2012 22:39:42.
+     1>Project "C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Uthreads\USynch\USynch.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\USynch.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _USRDLL /D USYNCH_DLL /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt USynch.c
+         USynch.c
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\USynch.dll.embed.manifest.res" Debug\USynch_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\USynch.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.lib" /MACHINE:X86 /DLL Debug\USynch.dll.embed.manifest.res
+         Debug\USynch.obj
+         "C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\UThread.lib"
+            Creating library C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.lib and object C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.exp
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\USynch.dll.embed.manifest" /manifest Debug\USynch.dll.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\USynch.dll.embed.manifest.res" Debug\USynch_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\USynch.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.lib" /MACHINE:X86 /DLL Debug\USynch.dll.embed.manifest.res
+         Debug\USynch.obj
+         "C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\UThread.lib"
+            Creating library C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.lib and object C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.exp
+         USynch.vcxproj -> C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.dll
+       FinalizeBuildStatus:
+         Deleting file "Debug\USynch.unsuccessfulbuild".
+         Touching "Debug\USynch.lastbuildstate".
+     1>Done Building Project "C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Uthreads\USynch\USynch.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.32

@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="23C4CB2B-1448-44C3-97D8-F3809166B1DE" ModuleId="LockFree" />
+  <Module PersistentId="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D" ModuleId="MovieInfo" />
+  <Module PersistentId="98D9E0C2-E5FC-4447-B857-AC027E80DB8F" ModuleId="AsyncUtils" />
+</Modules>

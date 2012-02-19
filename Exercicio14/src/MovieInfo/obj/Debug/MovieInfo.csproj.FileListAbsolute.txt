@@ -1,0 +1,7 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\MovieInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\MovieInfo\bin\MovieInfo.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\MovieInfo\bin\MovieInfo.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\MovieInfo\bin\AsyncUtils.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\MovieInfo\bin\AsyncUtils.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\MovieInfo\obj\Debug\MovieInfo.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\MovieInfo\obj\Debug\MovieInfo.pdb

@@ -1,0 +1,290 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Views/f:Web.config" caret="0" fromTop="0" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/f:Global.asax.cs" caret="649" fromTop="12" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/d:ExternalModels/f:IMDB.cs" caret="161" fromTop="7" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/d:ExternalModels/f:BING.cs" caret="449" fromTop="13" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/d:ExternalModels/f:Flickr.cs" caret="285" fromTop="0" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:BingAsync.cs" caret="815" fromTop="19" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="1063" fromTop="20" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:NYTAsync.cs" caret="1185" fromTop="27" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:FlickrAsync.cs" caret="0" fromTop="0" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:MovieResponse.cs" caret="444" fromTop="17" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:Critic.cs" caret="238" fromTop="10" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:Movie.cs" caret="444" fromTop="15" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="3562" fromTop="16" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Controllers/f:MoviesController.cs" caret="942" fromTop="7" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:TaskService.cs" caret="344" fromTop="11" />
+      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="2071" fromTop="10" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:ImdbAsync.cs" caret="814" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="750" fromTop="29" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="426" fromTop="13" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="415" fromTop="13" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="520" fromTop="17" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="638" fromTop="18" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="1025" fromTop="19" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="1099" fromTop="23" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:ImdbAsync.cs" caret="796" fromTop="26" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="1048" fromTop="19" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="1304" fromTop="15" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="3870" fromTop="33" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="2943" fromTop="14" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="1322" fromTop="7" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="1813" fromTop="16" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:ImdbAsync.cs" caret="494" fromTop="10" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:ImdbAsync.cs" caret="796" fromTop="15" />
+      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3911" fromTop="8" />
+      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3911" fromTop="12" />
+      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3911" fromTop="17" />
+      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3911" fromTop="17" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:MovieResponse.cs" caret="458" fromTop="19" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:MovieResponse.cs" caret="458" fromTop="17" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:Movie.cs" caret="444" fromTop="15" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:MovieResponse.cs" caret="444" fromTop="17" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:Critic.cs" caret="282" fromTop="11" />
+      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="2963" fromTop="19" />
+      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3311" fromTop="21" />
+      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3523" fromTop="20" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="3490" fromTop="14" />
+      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3861" fromTop="24" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="return" priority="7" />
+      <Item value="View`0" priority="0" />
+      <Item value="string" priority="41" />
+      <Item value="JsonResult`0" priority="2" />
+      <Item value="var" priority="7" />
+      <Item value="new" priority="11" />
+      <Item value="prop" priority="29" />
+      <Item value="int" priority="6" />
+      <Item value="result" priority="2" />
+      <Item value="Uri`0" priority="2" />
+      <Item value="IEnumerable" priority="2" />
+      <Item value="Critics" priority="0" />
+      <Item value="public" priority="5" />
+      <Item value="void" priority="2" />
+      <Item value="private" priority="7" />
+      <Item value="const" priority="6" />
+      <Item value="ContentResult`0" priority="0" />
+      <Item value="routes" priority="0" />
+      <Item value="object" priority="6" />
+      <Item value="if" priority="5" />
+      <Item value="BINGKey" priority="0" />
+      <Item value="FlickrKey" priority="0" />
+      <Item value="imdbObj" priority="11" />
+      <Item value="WebRequest`0" priority="3" />
+      <Item value="HttpWebRequest`0" priority="0" />
+      <Item value="flickrRequestUri" priority="0" />
+      <Item value="Task`0" priority="10" />
+      <Item value="flickrRequest" priority="1" />
+      <Item value="IAsyncResult`0" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="HttpWebResponse`0" priority="1" />
+      <Item value="flickrTask" priority="0" />
+      <Item value="bingResponse" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="bool" priority="3" />
+      <Item value="Photo`0" priority="0" />
+      <Item value="Photos" priority="0" />
+      <Item value="p" priority="3" />
+      <Item value="flickrObj" priority="2" />
+      <Item value="AsyncManager" priority="1" />
+      <Item value="response" priority="11" />
+      <Item value="NYTObj" priority="0" />
+      <Item value="Select`2" priority="0" />
+      <Item value="Critic`0" priority="0" />
+      <Item value="Author" priority="0" />
+      <Item value="a" priority="3" />
+      <Item value="CapsuleReview" priority="0" />
+      <Item value="Uri" priority="1" />
+      <Item value="t" priority="4" />
+      <Item value="y" priority="1" />
+      <Item value="l" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="Exception" priority="0" />
+      <Item value="ctor" priority="5" />
+      <Item value="_AppDomain`0" priority="0" />
+      <Item value="title" priority="6" />
+      <Item value="year" priority="3" />
+      <Item value="_task" priority="7" />
+      <Item value="imdbService" priority="2" />
+      <Item value="IMDB`0" priority="3" />
+      <Item value="protected" priority="1" />
+      <Item value="text" priority="1" />
+      <Item value="language" priority="3" />
+      <Item value="BINGRequestUrl" priority="0" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="BingAsync`0" priority="0" />
+      <Item value="bingService" priority="2" />
+      <Item value="TaskService" priority="1" />
+      <Item value="director" priority="1" />
+      <Item value="FlickrRequestUrl" priority="0" />
+      <Item value="FlickrSearchResponse`0" priority="0" />
+      <Item value="FlickrAsync`0" priority="0" />
+      <Item value="flickrService" priority="2" />
+      <Item value="NYTRequestUrl" priority="0" />
+      <Item value="NYTAsync`0" priority="0" />
+      <Item value="nytService" priority="2" />
+      <Item value="MovieInfoAsync`0" priority="1" />
+      <Item value="static" priority="3" />
+      <Item value="manager" priority="1" />
+      <Item value="MovieInfoAsync" priority="0" />
+      <Item value="service" priority="0" />
+      <Item value="yield return" priority="6" />
+      <Item value="bingArtService" priority="1" />
+      <Item value="fillArticlesTask" priority="1" />
+      <Item value="yield break" priority="0" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="nytObj" priority="0" />
+      <Item value="readonly" priority="1" />
+      <Item value="Threading" priority="0" />
+      <Item value="Tasks" priority="0" />
+      <Item value="_cache" priority="5" />
+      <Item value="ConcurrentDictionary&lt;string,object&gt;" priority="0" />
+      <Item value="TaskUtils" priority="0" />
+      <Item value="url" priority="6" />
+      <Item value="else" priority="1" />
+      <Item value="Task" priority="1" />
+      <Item value="Action`0" priority="1" />
+      <Item value="action" priority="2" />
+      <Item value="Cache" priority="3" />
+      <Item value="_instance" priority="0" />
+      <Item value="UrlRequestCache" priority="2" />
+      <Item value="T`0" priority="3" />
+      <Item value="Caching" priority="2" />
+      <Item value="imdbRequestUri" priority="1" />
+      <Item value="WebResponse`0" priority="0" />
+      <Item value="imdbRequest" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="nytArticle" priority="1" />
+      <Item value="poster" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.Async.OperationCounter">
+      <Item value="Decrement`0" priority="1" />
+      <Item value="Increment`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Models.Movie">
+      <Item value="Title" priority="0" />
+      <Item value="Critics" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RouteCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="MapRoute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Models.ExternalModels.IMDB">
+      <Item value="Title" priority="0" />
+      <Item value="Director" priority="2" />
+      <Item value="Plot" priority="1" />
+      <Item value="Year" priority="0" />
+      <Item value="Poster" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebRequest">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Task">
+      <Item value="Factory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskFactory">
+      <Item value="FromAsync`4" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebRequest">
+      <Item value="BeginGetResponse`0" priority="0" />
+      <Item value="EndGetResponse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.Task`1">
+      <Item value="Result" priority="2" />
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Models.ExternalModels.FlickrSearchResponse">
+      <Item value="Stat" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Models.ExternalModels.Photo">
+      <Item value="Server" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="Secret" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.Async.AsyncManager">
+      <Item value="Parameters" priority="0" />
+      <Item value="OutstandingOperations" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Models.MovieResponse">
+      <Item value="Message" priority="0" />
+      <Item value="Title" priority="1" />
+      <Item value="Year" priority="1" />
+      <Item value="Language" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Models.ExternalModels.NYTASearchResponse">
+      <Item value="Results" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToArray`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Models.ExternalModels.NYTArticle">
+      <Item value="Seo_Name" priority="0" />
+      <Item value="Capsule_Review" priority="1" />
+      <Item value="Link" priority="0" />
+      <Item value="Summary_Short" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Models.ExternalModels.NYTLink">
+      <Item value="Url" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Services.ImdbAsync">
+      <Item value="Result" priority="0" />
+      <Item value="Task" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Services.BingAsync">
+      <Item value="Result" priority="2" />
+      <Item value="Task" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Services.FlickrAsync">
+      <Item value="Result" priority="1" />
+      <Item value="Task" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Services.NYTAsync">
+      <Item value="Result" priority="1" />
+      <Item value="Task" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Services.MovieInfoAsync">
+      <Item value="GetMovieInfo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Concurrent.ConcurrentDictionary`2">
+      <Item value="ContainsKey`0" priority="2" />
+      <Item value="TryAdd`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MoviesBroker.Caching.UrlRequestCache`1">
+      <Item value="Instance" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoviesBroker.Caching.UrlRequestCache`1">
+      <Item value="Contains`0" priority="0" />
+      <Item value="Get`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

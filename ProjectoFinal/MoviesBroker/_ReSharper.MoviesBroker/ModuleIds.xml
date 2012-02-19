@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="93A3BB55-BB2F-4D9F-A1F8-245F382CB945" ModuleId="MoviesBroker" />
+  <Module PersistentId="98D9E0C2-E5FC-4447-B857-AC027E80DB8F" ModuleId="AsyncUtils" />
+  <Module PersistentId="D0C302F4-E6E3-4099-9F8A-BB6744F505AD" ModuleId="MovieInfoClient" />
+</Modules>

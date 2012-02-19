@@ -1,0 +1,248 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="14" />
+      <Item value="imdbRequest" priority="0" />
+      <Item value="null" priority="2" />
+      <Item value="private" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="object" priority="1" />
+      <Item value="IHttpAsyncHandler`0" priority="0" />
+      <Item value="ImdbCallback`0" priority="0" />
+      <Item value="public" priority="3" />
+      <Item value="new" priority="10" />
+      <Item value="return" priority="6" />
+      <Item value="imdbAsyncCallback" priority="0" />
+      <Item value="context" priority="2" />
+      <Item value="ValueType`0" priority="3" />
+      <Item value="IAsyncResult`0" priority="1" />
+      <Item value="ar" priority="7" />
+      <Item value="class" priority="0" />
+      <Item value="httpAR" priority="3" />
+      <Item value="extraData" priority="2" />
+      <Item value="ctor" priority="0" />
+      <Item value="callback" priority="0" />
+      <Item value="AsyncState" priority="0" />
+      <Item value="AsyncWaitHandle" priority="0" />
+      <Item value="false" priority="1" />
+      <Item value="_callback" priority="2" />
+      <Item value="Attribute`0" priority="0" />
+      <Item value="as" priority="2" />
+      <Item value="MyHttpAsyncResult`0" priority="2" />
+      <Item value="if" priority="5" />
+      <Item value="httpCb" priority="14" />
+      <Item value="throw" priority="0" />
+      <Item value="NotImplementedException`0" priority="0" />
+      <Item value="prop" priority="4" />
+      <Item value="AsyncCallback`0" priority="0" />
+      <Item value="Callback" priority="0" />
+      <Item value="true" priority="2" />
+      <Item value="HttpContext`0" priority="0" />
+      <Item value="Context" priority="0" />
+      <Item value="HttpWebRequest" priority="0" />
+      <Item value="httpWebRequest" priority="0" />
+      <Item value="HttpWebResponse`0" priority="0" />
+      <Item value="ManualResetEvent`0" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="bingResponse" priority="1" />
+      <Item value="bingRequest" priority="1" />
+      <Item value="bAR" priority="0" />
+      <Item value="a" priority="0" />
+      <Item value="final" priority="5" />
+      <Item value="mustEnd" priority="1" />
+      <Item value="retries" priority="1" />
+      <Item value="MAX_RETRIES" priority="0" />
+      <Item value="Thread`0" priority="1" />
+      <Item value="Timer" priority="2" />
+      <Item value="Task`0" priority="5" />
+      <Item value="TaskFactory`0" priority="0" />
+      <Item value="Parallel`0" priority="2" />
+      <Item value="fname" priority="0" />
+      <Item value="parallelOptions" priority="0" />
+      <Item value="ParallelOptions`0" priority="2" />
+      <Item value="TaskContinuationOptions`0" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="ParallelMergeOptions`0" priority="1" />
+      <Item value="txtResults" priority="1" />
+      <Item value="name" priority="7" />
+      <Item value="TaskCreationOptions`0" priority="1" />
+      <Item value="TaskScheduler`0" priority="0" />
+      <Item value="txtWord" priority="1" />
+      <Item value="Action`0" priority="1" />
+      <Item value="AllDirectories" priority="0" />
+      <Item value="dname" priority="0" />
+      <Item value="FromCurrentSynchronizationContext`0" priority="1" />
+      <Item value="String`0" priority="2" />
+      <Item value="nname" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="static" priority="3" />
+      <Item value="TextBox`0" priority="2" />
+      <Item value="this" priority="0" />
+      <Item value="textBox" priority="4" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="texts" priority="8" />
+      <Item value="List" priority="0" />
+      <Item value="nameList" priority="7" />
+      <Item value="foreach" priority="0" />
+      <Item value="int" priority="2" />
+      <Item value="Count" priority="1" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="AddLines`0" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="counter" priority="0" />
+      <Item value="ConcurrentQueue&lt;string&gt;" priority="0" />
+      <Item value="list" priority="4" />
+      <Item value="Interlocked`0" priority="0" />
+      <Item value="ref" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="newList" priority="0" />
+      <Item value="Calls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebRequest">
+      <Item value="BeginGetResponse`0" priority="1" />
+      <Item value="EndGetResponse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="Request" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequest">
+      <Item value="QueryString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IAsyncResult">
+      <Item value="ToString`0" priority="0" />
+      <Item value="AsyncWaitHandle" priority="0" />
+      <Item value="AsyncState" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MovieInfo.MovieInfoHandler+MyHttpAsyncResult">
+      <Item value="AsyncState" priority="1" />
+      <Item value="AsyncWaitHandle" priority="2" />
+      <Item value="IsCompleted" priority="1" />
+      <Item value="Callback" priority="2" />
+      <Item value="HttpWebRequest" priority="2" />
+      <Item value="Context" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ManualResetEvent">
+      <Item value="Set`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Task">
+      <Item value="Factory" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskFactory">
+      <Item value="StartNew`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Parallel">
+      <Item value="ForEach`2" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.Task">
+      <Item value="AsyncState" priority="0" />
+      <Item value="ContinueWith`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.TaskContinuationOptions">
+      <Item value="AttachedToParent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="BeginInvoke`0" priority="2" />
+      <Item value="AddLine`0" priority="2" />
+      <Item value="AppendText`0" priority="0" />
+      <Item value="AddLines`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FileFinder.TextBoxExtensions">
+      <Item value="AddLine`0" priority="2" />
+      <Item value="Count" priority="0" />
+      <Item value="Calls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.TaskScheduler">
+      <Item value="FromCurrentSynchronizationContext`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.SearchOption">
+      <Item value="AllDirectories" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="EnumerateFiles`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="ForEach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="AsParallel`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Concurrent.ConcurrentQueue`1">
+      <Item value="Equals`0" priority="0" />
+      <Item value="Enqueue`0" priority="0" />
+      <Item value="Count" priority="3" />
+      <Item value="TryDequeue`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Interlocked">
+      <Item value="CompareExchange`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="372" fromTop="9" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderProg.cs" caret="164" fromTop="8" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="5526" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="8893" fromTop="19" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="4820" fromTop="10" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="1273" fromTop="7" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="4820" fromTop="3" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="4820" fromTop="19" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="4820" fromTop="17" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="4875" fromTop="33" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="4820" fromTop="25" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="4820" fromTop="11" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="4820" fromTop="23" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="2239" fromTop="14" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="3922" fromTop="28" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="2768" fromTop="16" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="6305" fromTop="25" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="6305" fromTop="27" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="3922" fromTop="29" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="5691" fromTop="11" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="5952" fromTop="19" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="3861" fromTop="31" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="3800" fromTop="26" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="3352" fromTop="19" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="6240" fromTop="22" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="3800" fromTop="7" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="4387" fromTop="18" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="5399" fromTop="6" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="5778" fromTop="18" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="4661" fromTop="17" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="4277" fromTop="24" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="1434" fromTop="7" />
+      <File id="EC24108A-3931-44F8-8FEB-B279A1F53D32/f:FileFinderForm.cs" caret="1910" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

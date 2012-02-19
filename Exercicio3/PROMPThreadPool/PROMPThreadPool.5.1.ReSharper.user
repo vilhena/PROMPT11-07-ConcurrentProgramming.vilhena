@@ -1,0 +1,116 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:Program.cs" caret="0" fromTop="0" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="585" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="30" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="32" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="19" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="23" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="12" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="12" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="12" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="12" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="12" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="12" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="12" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="1825" fromTop="29" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="1827" fromTop="29" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="2027" fromTop="30" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="852" fromTop="3" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="1303" fromTop="8" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="1340" fromTop="14" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="1773" fromTop="26" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="1827" fromTop="9" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="416" fromTop="7" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="20" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="738" fromTop="16" />
+      <File id="F1A54FE3-3F34-4AD7-8175-D488A302BCE6/f:ThreadPool.cs" caret="585" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="1" />
+      <Item value="int" priority="4" />
+      <Item value="_min" priority="3" />
+      <Item value="min" priority="1" />
+      <Item value="_max" priority="4" />
+      <Item value="AppDomainInitializer`0" priority="0" />
+      <Item value="ThreadPool`0" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="Threading" priority="0" />
+      <Item value="new" priority="4" />
+      <Item value="Thread" priority="0" />
+      <Item value="private" priority="3" />
+      <Item value="Queue&lt;Proc&gt;" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="while" priority="2" />
+      <Item value="count" priority="1" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="init" priority="0" />
+      <Item value="Monitor`0" priority="1" />
+      <Item value="if" priority="5" />
+      <Item value="_items" priority="6" />
+      <Item value="lock" priority="2" />
+      <Item value="void" priority="0" />
+      <Item value="DoWork`0" priority="0" />
+      <Item value="newT" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="res" priority="0" />
+      <Item value="_count" priority="0" />
+      <Item value="_currentCount" priority="0" />
+      <Item value="Proc`0" priority="0" />
+      <Item value="_doingWork" priority="4" />
+      <Item value="break" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="proc" priority="0" />
+      <Item value="_threadCount" priority="6" />
+      <Item value="bool" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="first" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="for" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Monitor">
+      <Item value="Wait`0" priority="0" />
+      <Item value="Pulse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Queue`1">
+      <Item value="Count" priority="2" />
+      <Item value="Dequeue`0" priority="0" />
+      <Item value="Enqueue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PROMPThreadPool.Proc">
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

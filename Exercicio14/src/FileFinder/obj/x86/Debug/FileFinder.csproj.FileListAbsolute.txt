@@ -1,0 +1,9 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\FileFinder\bin\Debug\FileFinder.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\FileFinder\bin\Debug\FileFinder.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\FileFinder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\FileFinder\obj\x86\Debug\FileFinder.FileFinderForm.resources
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\FileFinder\obj\x86\Debug\FileFinder.Properties.Resources.resources
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\FileFinder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\FileFinder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\FileFinder\obj\x86\Debug\FileFinder.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\FileFinder\obj\x86\Debug\FileFinder.pdb

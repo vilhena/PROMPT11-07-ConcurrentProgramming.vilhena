@@ -1,0 +1,133 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="IHttpAsyncHandler`0" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="IAsyncResult`0" priority="3" />
+      <Item value="ctor" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="Task`0" priority="6" />
+      <Item value="imdbRequest" priority="1" />
+      <Item value="null" priority="2" />
+      <Item value="Func" priority="0" />
+      <Item value="HttpWebResponse`0" priority="0" />
+      <Item value="WebRequest`0" priority="0" />
+      <Item value="imdbtask" priority="2" />
+      <Item value="t" priority="1" />
+      <Item value="Result" priority="0" />
+      <Item value="Action`0" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="2" />
+      <Item value="MovieInfoResult`0" priority="0" />
+      <Item value="extraData" priority="0" />
+      <Item value="return" priority="5" />
+      <Item value="miar" priority="6" />
+      <Item value="context" priority="0" />
+      <Item value="IEquatable" priority="0" />
+      <Item value="Task" priority="0" />
+      <Item value="prop" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="Completed" priority="1" />
+      <Item value="false" priority="1" />
+      <Item value="true" priority="0" />
+      <Item value="yield return" priority="2" />
+      <Item value="bingRequest" priority="1" />
+      <Item value="WebResponse`0" priority="0" />
+      <Item value="bingTask" priority="1" />
+      <Item value="yield break" priority="0" />
+      <Item value="Timer`0" priority="0" />
+      <Item value="Timer" priority="0" />
+      <Item value="IsCompleted" priority="0" />
+      <Item value="AsyncState" priority="0" />
+      <Item value="state" priority="0" />
+      <Item value="AsyncCallback`0" priority="0" />
+      <Item value="Callback" priority="0" />
+      <Item value="tcs" priority="0" />
+      <Item value="decimal" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="TResult`0" priority="0" />
+      <Item value="else" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Task">
+      <Item value="Factory" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskFactory">
+      <Item value="FromAsync`4" priority="2" />
+      <Item value="StartNew`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebRequest">
+      <Item value="BeginGetResponse`0" priority="1" />
+      <Item value="EndGetResponse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.Task`1">
+      <Item value="ContinueWith`1" priority="0" />
+      <Item value="Result" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MovieInfo.MovieInfoHandler+MovieInfoResult">
+      <Item value="Completed" priority="0" />
+      <Item value="IsCompleted" priority="0" />
+      <Item value="Callback" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskCompletionSource`1">
+      <Item value="SetResult`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Models/f:BingModel.cs" caret="0" fromTop="0" />
+      <File id="98D9E0C2-E5FC-4447-B857-AC027E80DB8F/f:IOExtensions.cs" caret="0" fromTop="0" />
+      <File id="98D9E0C2-E5FC-4447-B857-AC027E80DB8F/f:AsyncEnumerator.cs" caret="200" fromTop="0" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="11437" fromTop="69" />
+      <File id="98D9E0C2-E5FC-4447-B857-AC027E80DB8F/f:TaskUtils.cs" caret="1244" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="593" fromTop="11" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="2288" fromTop="9" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="5582" fromTop="26" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="5682" fromTop="31" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="1104" fromTop="3" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="5720" fromTop="24" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="2288" fromTop="23" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="11560" fromTop="33" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="5131" fromTop="17" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="7905" fromTop="18" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="5624" fromTop="25" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="5960" fromTop="11" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="9332" fromTop="26" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="9485" fromTop="29" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="11648" fromTop="29" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="10741" fromTop="27" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="5254" fromTop="22" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="5200" fromTop="14" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="4803" fromTop="3" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="5358" fromTop="7" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="10019" fromTop="17" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="450" fromTop="8" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="5007" fromTop="19" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="6207" fromTop="16" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="6935" fromTop="29" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="11403" fromTop="30" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="10191" fromTop="20" />
+      <File id="25CE286C-A7E0-40EA-83A1-7CDCB0A6C14D/d:Handlers/f:MovieInfoHandler.cs" caret="7608" fromTop="8" />
+      <File id="98D9E0C2-E5FC-4447-B857-AC027E80DB8F/f:TaskUtils.cs" caret="1370" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

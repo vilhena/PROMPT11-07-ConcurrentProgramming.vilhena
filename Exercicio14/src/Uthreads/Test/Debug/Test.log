@@ -1,0 +1,31 @@
+﻿Build started 02-02-2012 22:39:45.
+     1>Project "C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Uthreads\Test\Test.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Test.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt Test.c
+         Test.c
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Test.exe.embed.manifest.res" Debug\Test_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\Test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\Test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\Test.lib" /MACHINE:X86 Debug\Test.exe.embed.manifest.res
+         Debug\Test.obj
+         "C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.lib"
+         "C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\UThread.lib"
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Test.exe.embed.manifest" /manifest Debug\Test.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Test.exe.embed.manifest.res" Debug\Test_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\Test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\Test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\Test.lib" /MACHINE:X86 Debug\Test.exe.embed.manifest.res
+         Debug\Test.obj
+         "C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\USynch.lib"
+         "C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\UThread.lib"
+         Test.vcxproj -> C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Debug\Test.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Test.unsuccessfulbuild".
+         Touching "Debug\Test.lastbuildstate".
+     1>Done Building Project "C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\Uthreads\Test\Test.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.87

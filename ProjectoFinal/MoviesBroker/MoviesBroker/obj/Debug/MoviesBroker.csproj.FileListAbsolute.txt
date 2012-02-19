@@ -1,0 +1,7 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\ProjectoFinal\MoviesBroker\MoviesBroker\bin\MoviesBroker.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\ProjectoFinal\MoviesBroker\MoviesBroker\bin\MoviesBroker.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\ProjectoFinal\MoviesBroker\MoviesBroker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\ProjectoFinal\MoviesBroker\MoviesBroker\obj\Debug\MoviesBroker.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\ProjectoFinal\MoviesBroker\MoviesBroker\obj\Debug\MoviesBroker.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\ProjectoFinal\MoviesBroker\MoviesBroker\bin\AsyncUtils.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\ProjectoFinal\MoviesBroker\MoviesBroker\bin\AsyncUtils.pdb

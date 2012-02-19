@@ -1,0 +1,5 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Aula4\src\IOCPvsTP\_AsyncServer\bin\Debug\_AsyncServer.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Aula4\src\IOCPvsTP\_AsyncServer\bin\Debug\_AsyncServer.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Aula4\src\IOCPvsTP\_AsyncServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Aula4\src\IOCPvsTP\_AsyncServer\obj\x86\Debug\_AsyncServer.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Aula4\src\IOCPvsTP\_AsyncServer\obj\x86\Debug\_AsyncServer.pdb

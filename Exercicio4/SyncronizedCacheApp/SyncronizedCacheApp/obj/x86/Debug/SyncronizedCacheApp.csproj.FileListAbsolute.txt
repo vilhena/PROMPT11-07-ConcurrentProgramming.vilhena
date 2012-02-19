@@ -1,0 +1,5 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio4\SyncronizedCacheApp\SyncronizedCacheApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio4\SyncronizedCacheApp\SyncronizedCacheApp\bin\Debug\SyncronizedCacheApp.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio4\SyncronizedCacheApp\SyncronizedCacheApp\bin\Debug\SyncronizedCacheApp.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio4\SyncronizedCacheApp\SyncronizedCacheApp\obj\x86\Debug\SyncronizedCacheApp.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio4\SyncronizedCacheApp\SyncronizedCacheApp\obj\x86\Debug\SyncronizedCacheApp.pdb

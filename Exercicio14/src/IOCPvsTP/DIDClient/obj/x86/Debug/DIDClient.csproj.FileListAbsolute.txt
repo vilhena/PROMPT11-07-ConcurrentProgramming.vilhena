@@ -1,0 +1,5 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\IOCPvsTP\DIDClient\bin\Debug\DIDClient.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\IOCPvsTP\DIDClient\bin\Debug\DIDClient.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\IOCPvsTP\DIDClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\IOCPvsTP\DIDClient\obj\x86\Debug\DIDClient.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\IOCPvsTP\DIDClient\obj\x86\Debug\DIDClient.pdb

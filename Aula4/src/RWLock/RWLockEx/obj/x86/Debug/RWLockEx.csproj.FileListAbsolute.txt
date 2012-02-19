@@ -1,0 +1,5 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Aula4\src\RWLock\RWLockEx\bin\Debug\RWLockEx.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Aula4\src\RWLock\RWLockEx\bin\Debug\RWLockEx.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Aula4\src\RWLock\RWLockEx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Aula4\src\RWLock\RWLockEx\obj\x86\Debug\RWLockEx.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Aula4\src\RWLock\RWLockEx\obj\x86\Debug\RWLockEx.pdb

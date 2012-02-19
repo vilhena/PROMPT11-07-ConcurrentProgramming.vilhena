@@ -1,0 +1,1 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-07-ConcurrentProgramming.vilhena\Exercicio14\src\LockFree\obj\x86\Debug\ResolveAssemblyReference.cache

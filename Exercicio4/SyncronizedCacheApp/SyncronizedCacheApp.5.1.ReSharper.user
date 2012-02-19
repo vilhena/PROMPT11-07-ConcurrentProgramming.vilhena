@@ -1,0 +1,135 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="356" fromTop="4" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:UnboundedQueue.cs" caret="441" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="1167" fromTop="9" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="418" fromTop="12" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="2350" fromTop="15" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="220" fromTop="7" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="826" fromTop="21" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="418" fromTop="22" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="418" fromTop="17" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="2422" fromTop="28" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="2422" fromTop="24" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="2350" fromTop="13" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="2350" fromTop="9" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="927" fromTop="30" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="2350" fromTop="30" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="1023" fromTop="25" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="418" fromTop="15" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="829" fromTop="14" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="826" fromTop="3" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="827" fromTop="12" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="2350" fromTop="19" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="2350" fromTop="20" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="2180" fromTop="18" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="1944" fromTop="7" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="2380" fromTop="30" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="2180" fromTop="19" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="1856" fromTop="9" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="1653" fromTop="4" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:ConcurrentCache.cs" caret="365" fromTop="4" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:UnboundedQueue.cs" caret="915" fromTop="20" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:UnboundedQueue.cs" caret="1091" fromTop="26" />
+      <File id="43656E44-8F34-4442-8A83-6F13CAEBF281/f:UnboundedQueue.cs" caret="663" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="3" />
+      <Item value="private" priority="8" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="TKey`0" priority="3" />
+      <Item value="TValue`0" priority="5" />
+      <Item value="new" priority="5" />
+      <Item value="Dictionary&lt;TKey,TValue&gt;" priority="0" />
+      <Item value="_factory" priority="6" />
+      <Item value="factory" priority="1" />
+      <Item value="public" priority="1" />
+      <Item value="key" priority="11" />
+      <Item value="if" priority="3" />
+      <Item value="_cache" priority="7" />
+      <Item value="return" priority="7" />
+      <Item value="value" priority="3" />
+      <Item value="else" priority="0" />
+      <Item value="default" priority="2" />
+      <Item value="class" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="ValueFactory`0" priority="2" />
+      <Item value="_result" priority="2" />
+      <Item value="false" priority="0" />
+      <Item value="_ready" priority="1" />
+      <Item value="var" priority="2" />
+      <Item value="future" priority="2" />
+      <Item value="ctor" priority="0" />
+      <Item value="readonly" priority="2" />
+      <Item value="_key" priority="3" />
+      <Item value="Monitor`0" priority="3" />
+      <Item value="Object`0" priority="0" />
+      <Item value="operator" priority="0" />
+      <Item value="_o" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="lock" priority="3" />
+      <Item value="true" priority="0" />
+      <Item value="set" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="LinkedList" priority="0" />
+      <Item value="LinkedList&lt;T&gt;" priority="0" />
+      <Item value="T`0" priority="2" />
+      <Item value="_item" priority="6" />
+      <Item value="res" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="ThreadInterruptedException`0" priority="1" />
+      <Item value="finally" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="throw" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SyncronizedCacheApp.ConcurrentCache`2+ValueFactory">
+      <Item value="Result" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.ThreadPool">
+      <Item value="QueueUserWorkItem`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Monitor">
+      <Item value="PulseAll`0" priority="0" />
+      <Item value="Wait`0" priority="1" />
+      <Item value="Pulse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.LinkedList`1">
+      <Item value="Count" priority="1" />
+      <Item value="First" priority="0" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="AddLast`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.LinkedListNode`1">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
