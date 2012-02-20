@@ -16,11 +16,7 @@ namespace MoviesBroker.Services
         {
             string imdbRequestUri = String.Format("http://imdbapi.com/?t={0}&y={1}", title, year);
 
-            var imdbRequest = WebRequest.Create(imdbRequestUri);
-            _task = Task.Factory.FromAsync(imdbRequest.BeginGetResponse
-                                            , (Func<IAsyncResult, WebResponse>)imdbRequest.EndGetResponse
-                                            , null);
-
+            SetCachedResponseTask(imdbRequestUri);
         }
     }
 }

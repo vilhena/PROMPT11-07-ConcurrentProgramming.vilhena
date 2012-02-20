@@ -11,6 +11,7 @@ using Async;
 using MoviesBroker.Models;
 using MoviesBroker.Models.ExternalModels;
 using MoviesBroker.Services;
+using MoviesBroker.Services.Movies;
 
 namespace MoviesBroker.Controllers
 {

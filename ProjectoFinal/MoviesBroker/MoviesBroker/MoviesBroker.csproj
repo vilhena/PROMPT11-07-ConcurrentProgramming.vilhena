@@ -80,9 +80,10 @@
     <Compile Include="Models\MovieResponse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\BingAsync.cs" />
+    <Compile Include="Services\Extensions\TaskExtensions.cs" />
     <Compile Include="Services\FlickrAsync.cs" />
     <Compile Include="Services\ImdbAsync.cs" />
-    <Compile Include="Services\MovieInfoAsync.cs" />
+    <Compile Include="Services\Movies\MovieInfoAsync.cs" />
     <Compile Include="Services\NYTAsync.cs" />
     <Compile Include="Services\TaskService.cs" />
   </ItemGroup>

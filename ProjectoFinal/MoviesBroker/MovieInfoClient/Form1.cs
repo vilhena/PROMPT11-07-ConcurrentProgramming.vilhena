@@ -117,14 +117,14 @@ namespace MoviesInfo
 					yearBox.Text = json.movie.year;
 
 					// Get Poster
-                    var image = LoadImageFromUrl((string)json.movie.poster);
+					var image = LoadImageFromUrl((string)json.movie.poster);
 					posterBox.Image = image;
 
 					// Show Reviews 
-                    foreach (dynamic review in json.movie.critics)
+					foreach (dynamic review in json.movie.critics)
 					{
-                        var item = reviewsList.Items.Add((string)review.author);
-                        item.SubItems.Add((string)review.capsule_review);
+						var item = reviewsList.Items.Add((string)review.author);
+						item.SubItems.Add((string)review.capsule_review);
 						item.SubItems.Add((string)review.reference);
 					}
 				},null);
@@ -152,8 +152,8 @@ namespace MoviesInfo
 				
 			});
 
-            // Enable new search
-            searchButton.Enabled = true;
+			// Enable new search
+			searchButton.Enabled = true;
 		}
 	}
 }

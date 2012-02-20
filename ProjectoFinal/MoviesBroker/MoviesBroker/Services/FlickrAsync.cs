@@ -26,10 +26,7 @@ namespace MoviesBroker.Services
                     director
                     );
 
-            WebRequest flickrRequest = (HttpWebRequest)WebRequest.Create(flickrRequestUri);
-            _task = Task.Factory.FromAsync(flickrRequest.BeginGetResponse,
-                                                    (Func<IAsyncResult, WebResponse>)flickrRequest.EndGetResponse,
-                                                    null);
+            SetCachedResponseTask(flickrRequestUri);
         }
     }
 }

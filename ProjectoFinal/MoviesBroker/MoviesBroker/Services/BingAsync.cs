@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 using System.Web;
+using System.Web.Script.Serialization;
 using MoviesBroker.Models.ExternalModels;
 
 namespace MoviesBroker.Services
@@ -14,6 +16,7 @@ namespace MoviesBroker.Services
         private const string BINGRequestUrl =
             "http://api.bing.net/json.aspx?AppId={0}&Query={1}&Sources=Translation&Version=2.2&Translation.SourceLanguage={2}&Translation.TargetLanguage={3}";
 
+
         public BingAsync(string text, string language)
         {
             string bingRequestUri =
@@ -23,13 +26,8 @@ namespace MoviesBroker.Services
                         text,
                         "en",
                         language);
-            WebRequest bingRequest = (HttpWebRequest)WebRequest.Create(bingRequestUri);
 
-            _task = Task.Factory.FromAsync(bingRequest.BeginGetResponse
-                                                    ,
-                                                    (Func<IAsyncResult, WebResponse>)
-                                                    bingRequest.EndGetResponse
-                                                    , null);   
+            SetCachedResponseTask(bingRequestUri);   
         }
 
     }

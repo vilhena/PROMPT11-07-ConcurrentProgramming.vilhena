@@ -25,10 +25,7 @@ namespace MoviesBroker.Services
                     , DateTime.Now.Year //imdbObj.Year + 1
                     );
 
-            WebRequest nytRequest = WebRequest.Create(nytRequestUri);
-            _task = Task.Factory.FromAsync(nytRequest.BeginGetResponse,
-                                           (Func<IAsyncResult, WebResponse>) nytRequest.EndGetResponse,
-                                           null);
+            SetCachedResponseTask(nytRequestUri);
         }
     }
 }

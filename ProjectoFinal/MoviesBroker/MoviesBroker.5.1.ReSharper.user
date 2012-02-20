@@ -14,50 +14,54 @@
       <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/d:ExternalModels/f:IMDB.cs" caret="161" fromTop="7" />
       <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/d:ExternalModels/f:BING.cs" caret="449" fromTop="13" />
       <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/d:ExternalModels/f:Flickr.cs" caret="285" fromTop="0" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:BingAsync.cs" caret="815" fromTop="19" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="1063" fromTop="20" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:NYTAsync.cs" caret="1185" fromTop="27" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:FlickrAsync.cs" caret="0" fromTop="0" />
       <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:MovieResponse.cs" caret="444" fromTop="17" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:Critic.cs" caret="238" fromTop="10" />
       <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:Movie.cs" caret="444" fromTop="15" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="3562" fromTop="16" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Controllers/f:MoviesController.cs" caret="942" fromTop="7" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:TaskService.cs" caret="344" fromTop="11" />
-      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="2071" fromTop="10" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:ImdbAsync.cs" caret="814" fromTop="17" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:Critic.cs" caret="238" fromTop="10" />
+      <File id="98D9E0C2-E5FC-4447-B857-AC027E80DB8F/f:AsyncEnumerator.cs" caret="451" fromTop="16" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:NYTAsync.cs" caret="920" fromTop="16" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:FlickrAsync.cs" caret="979" fromTop="16" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:ImdbAsync.cs" caret="546" fromTop="15" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:BingAsync.cs" caret="769" fromTop="22" />
+      <File id="98D9E0C2-E5FC-4447-B857-AC027E80DB8F/f:TaskUtils.cs" caret="533" fromTop="7" />
+      <File id="98D9E0C2-E5FC-4447-B857-AC027E80DB8F/f:IOExtensions.cs" caret="1451" fromTop="19" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:TaskService.cs" caret="327" fromTop="3" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Extensions/f:TaskExtensions.cs" caret="1049" fromTop="14" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Movies/f:MovieInfoAsync.cs" caret="1727" fromTop="39" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Controllers/f:MoviesController.cs" caret="1101" fromTop="24" />
+      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3277" fromTop="10" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="1986" fromTop="20" />
     </RecentFiles>
     <RecentEdits>
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="750" fromTop="29" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="426" fromTop="13" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="415" fromTop="13" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="520" fromTop="17" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="638" fromTop="18" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="1025" fromTop="19" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="1099" fromTop="23" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:ImdbAsync.cs" caret="796" fromTop="26" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="1048" fromTop="19" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="1304" fromTop="15" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="3870" fromTop="33" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="2943" fromTop="14" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="1322" fromTop="7" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="1813" fromTop="16" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:ImdbAsync.cs" caret="494" fromTop="10" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:ImdbAsync.cs" caret="796" fromTop="15" />
-      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3911" fromTop="8" />
-      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3911" fromTop="12" />
-      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3911" fromTop="17" />
-      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3911" fromTop="17" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:MovieResponse.cs" caret="458" fromTop="19" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:MovieResponse.cs" caret="458" fromTop="17" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:Movie.cs" caret="444" fromTop="15" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:MovieResponse.cs" caret="444" fromTop="17" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Models/f:Critic.cs" caret="282" fromTop="11" />
-      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="2963" fromTop="19" />
-      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3311" fromTop="21" />
-      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3523" fromTop="20" />
-      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:MovieInfoAsync.cs" caret="3490" fromTop="14" />
-      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3861" fromTop="24" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:BingAsync.cs" caret="996" fromTop="20" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:BingAsync.cs" caret="996" fromTop="24" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:TaskService.cs" caret="1141" fromTop="27" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:BingAsync.cs" caret="996" fromTop="20" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:NYTAsync.cs" caret="908" fromTop="16" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:FlickrAsync.cs" caret="979" fromTop="16" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:ImdbAsync.cs" caret="529" fromTop="15" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Movies/f:MovieInfoAsync.cs" caret="1281" fromTop="9" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="1041" fromTop="14" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:TaskService.cs" caret="1467" fromTop="20" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:TaskService.cs" caret="436" fromTop="12" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="1893" fromTop="24" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="476" fromTop="8" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Caching/f:UrlRequestCache.cs" caret="298" fromTop="5" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Movies/f:MovieInfoAsync.cs" caret="1281" fromTop="15" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Extensions/f:TaskExtensions.cs" caret="701" fromTop="16" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Movies/f:MovieInfoAsync.cs" caret="215" fromTop="6" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Extensions/f:TaskExtensions.cs" caret="348" fromTop="10" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Extensions/f:TaskExtensions.cs" caret="764" fromTop="18" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Movies/f:MovieInfoAsync.cs" caret="1574" fromTop="29" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Movies/f:MovieInfoAsync.cs" caret="1575" fromTop="21" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Movies/f:MovieInfoAsync.cs" caret="1281" fromTop="4" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Extensions/f:TaskExtensions.cs" caret="1049" fromTop="29" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Extensions/f:TaskExtensions.cs" caret="1388" fromTop="33" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Extensions/f:TaskExtensions.cs" caret="1049" fromTop="22" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Extensions/f:TaskExtensions.cs" caret="1049" fromTop="14" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/f:TaskService.cs" caret="338" fromTop="7" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Movies/f:MovieInfoAsync.cs" caret="715" fromTop="10" />
+      <File id="93A3BB55-BB2F-4D9F-A1F8-245F382CB945/d:Services/d:Movies/f:MovieInfoAsync.cs" caret="1727" fromTop="6" />
+      <File id="D0C302F4-E6E3-4099-9F8A-BB6744F505AD/f:Form1.cs" caret="3827" fromTop="10" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -73,41 +77,41 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="return" priority="7" />
+      <Item value="return" priority="16" />
       <Item value="View`0" priority="0" />
-      <Item value="string" priority="41" />
+      <Item value="string" priority="47" />
       <Item value="JsonResult`0" priority="2" />
-      <Item value="var" priority="7" />
-      <Item value="new" priority="11" />
+      <Item value="var" priority="10" />
+      <Item value="new" priority="14" />
       <Item value="prop" priority="29" />
-      <Item value="int" priority="6" />
+      <Item value="int" priority="7" />
       <Item value="result" priority="2" />
       <Item value="Uri`0" priority="2" />
-      <Item value="IEnumerable" priority="2" />
+      <Item value="IEnumerable" priority="3" />
       <Item value="Critics" priority="0" />
-      <Item value="public" priority="5" />
-      <Item value="void" priority="2" />
-      <Item value="private" priority="7" />
+      <Item value="public" priority="9" />
+      <Item value="void" priority="4" />
+      <Item value="private" priority="14" />
       <Item value="const" priority="6" />
       <Item value="ContentResult`0" priority="0" />
       <Item value="routes" priority="0" />
       <Item value="object" priority="6" />
-      <Item value="if" priority="5" />
+      <Item value="if" priority="8" />
       <Item value="BINGKey" priority="0" />
       <Item value="FlickrKey" priority="0" />
-      <Item value="imdbObj" priority="11" />
-      <Item value="WebRequest`0" priority="3" />
+      <Item value="imdbObj" priority="12" />
+      <Item value="WebRequest`0" priority="10" />
       <Item value="HttpWebRequest`0" priority="0" />
-      <Item value="flickrRequestUri" priority="0" />
-      <Item value="Task`0" priority="10" />
-      <Item value="flickrRequest" priority="1" />
+      <Item value="flickrRequestUri" priority="1" />
+      <Item value="Task`0" priority="18" />
+      <Item value="flickrRequest" priority="3" />
       <Item value="IAsyncResult`0" priority="0" />
       <Item value="null" priority="1" />
       <Item value="HttpWebResponse`0" priority="1" />
       <Item value="flickrTask" priority="0" />
       <Item value="bingResponse" priority="0" />
-      <Item value="class" priority="0" />
-      <Item value="bool" priority="3" />
+      <Item value="class" priority="1" />
+      <Item value="bool" priority="4" />
       <Item value="Photo`0" priority="0" />
       <Item value="Photos" priority="0" />
       <Item value="p" priority="3" />
@@ -118,7 +122,7 @@
       <Item value="Select`2" priority="0" />
       <Item value="Critic`0" priority="0" />
       <Item value="Author" priority="0" />
-      <Item value="a" priority="3" />
+      <Item value="a" priority="4" />
       <Item value="CapsuleReview" priority="0" />
       <Item value="Uri" priority="1" />
       <Item value="t" priority="4" />
@@ -130,17 +134,17 @@
       <Item value="_AppDomain`0" priority="0" />
       <Item value="title" priority="6" />
       <Item value="year" priority="3" />
-      <Item value="_task" priority="7" />
+      <Item value="_task" priority="11" />
       <Item value="imdbService" priority="2" />
       <Item value="IMDB`0" priority="3" />
-      <Item value="protected" priority="1" />
+      <Item value="protected" priority="6" />
       <Item value="text" priority="1" />
-      <Item value="language" priority="3" />
+      <Item value="language" priority="4" />
       <Item value="BINGRequestUrl" priority="0" />
       <Item value="EnvironmentVariableTarget`0" priority="0" />
       <Item value="BingAsync`0" priority="0" />
       <Item value="bingService" priority="2" />
-      <Item value="TaskService" priority="1" />
+      <Item value="TaskService" priority="2" />
       <Item value="director" priority="1" />
       <Item value="FlickrRequestUrl" priority="0" />
       <Item value="FlickrSearchResponse`0" priority="0" />
@@ -150,7 +154,7 @@
       <Item value="NYTAsync`0" priority="0" />
       <Item value="nytService" priority="2" />
       <Item value="MovieInfoAsync`0" priority="1" />
-      <Item value="static" priority="3" />
+      <Item value="static" priority="4" />
       <Item value="manager" priority="1" />
       <Item value="MovieInfoAsync" priority="0" />
       <Item value="service" priority="0" />
@@ -158,7 +162,7 @@
       <Item value="bingArtService" priority="1" />
       <Item value="fillArticlesTask" priority="1" />
       <Item value="yield break" priority="0" />
-      <Item value="ValueType`0" priority="0" />
+      <Item value="ValueType`0" priority="1" />
       <Item value="nytObj" priority="0" />
       <Item value="readonly" priority="1" />
       <Item value="Threading" priority="0" />
@@ -166,22 +170,54 @@
       <Item value="_cache" priority="5" />
       <Item value="ConcurrentDictionary&lt;string,object&gt;" priority="0" />
       <Item value="TaskUtils" priority="0" />
-      <Item value="url" priority="6" />
-      <Item value="else" priority="1" />
-      <Item value="Task" priority="1" />
-      <Item value="Action`0" priority="1" />
-      <Item value="action" priority="2" />
+      <Item value="url" priority="7" />
+      <Item value="else" priority="3" />
+      <Item value="Task" priority="5" />
+      <Item value="Action`0" priority="2" />
+      <Item value="action" priority="3" />
       <Item value="Cache" priority="3" />
-      <Item value="_instance" priority="0" />
-      <Item value="UrlRequestCache" priority="2" />
-      <Item value="T`0" priority="3" />
-      <Item value="Caching" priority="2" />
+      <Item value="_instance" priority="1" />
+      <Item value="UrlRequestCache" priority="3" />
+      <Item value="T`0" priority="6" />
+      <Item value="Caching" priority="3" />
       <Item value="imdbRequestUri" priority="1" />
-      <Item value="WebResponse`0" priority="0" />
+      <Item value="WebResponse`0" priority="3" />
       <Item value="imdbRequest" priority="0" />
       <Item value="foreach" priority="0" />
       <Item value="nytArticle" priority="1" />
       <Item value="poster" priority="0" />
+      <Item value="TaskScheduler`0" priority="2" />
+      <Item value="tcs" priority="2" />
+      <Item value="valueTask" priority="0" />
+      <Item value="added" priority="0" />
+      <Item value="bingRequestUri" priority="2" />
+      <Item value="bingRequest" priority="0" />
+      <Item value="override" priority="2" />
+      <Item value="BingObj`0" priority="0" />
+      <Item value="actionResult" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="_isLoadedFromStream" priority="1" />
+      <Item value="_resultValue" priority="2" />
+      <Item value="default" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="volatile" priority="0" />
+      <Item value="set" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="this" priority="2" />
+      <Item value="request" priority="3" />
+      <Item value="requestTask" priority="1" />
+      <Item value="AppDomainSetup`0" priority="0" />
+      <Item value="SetCachedResponseTask`0" priority="0" />
+      <Item value="enumerable" priority="1" />
+      <Item value="Func" priority="0" />
+      <Item value="from" priority="0" />
+      <Item value="to" priority="0" />
+      <Item value="ExternalModels" priority="0" />
+      <Item value="Services" priority="0" />
+      <Item value="Extensions" priority="0" />
+      <Item value="i" priority="0" />
+      <Item value="s" priority="0" />
+      <Item value="Task&lt;WebRequest&gt;" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Web.Mvc.Async.OperationCounter">
       <Item value="Decrement`0" priority="1" />
@@ -217,10 +253,12 @@
     <ItemStatistics item="Qualified:System.Net.WebRequest">
       <Item value="BeginGetResponse`0" priority="0" />
       <Item value="EndGetResponse`0" priority="0" />
+      <Item value="WebRequestTaskAsync`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Threading.Tasks.Task`1">
-      <Item value="Result" priority="2" />
+      <Item value="Result" priority="5" />
       <Item value="Start`0" priority="0" />
+      <Item value="ContinueWith`1" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:MoviesBroker.Models.ExternalModels.FlickrSearchResponse">
       <Item value="Stat" priority="0" />
@@ -248,7 +286,7 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:MoviesBroker.Models.ExternalModels.NYTArticle">
       <Item value="Seo_Name" priority="0" />
-      <Item value="Capsule_Review" priority="1" />
+      <Item value="Capsule_Review" priority="3" />
       <Item value="Link" priority="0" />
       <Item value="Summary_Short" priority="0" />
     </ItemStatistics>
@@ -261,7 +299,8 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:MoviesBroker.Services.BingAsync">
       <Item value="Result" priority="2" />
-      <Item value="Task" priority="2" />
+      <Item value="Task" priority="8" />
+      <Item value="SetResponseTask`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:MoviesBroker.Services.FlickrAsync">
       <Item value="Result" priority="1" />
@@ -276,15 +315,23 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Concurrent.ConcurrentDictionary`2">
       <Item value="ContainsKey`0" priority="2" />
-      <Item value="TryAdd`0" priority="0" />
+      <Item value="TryAdd`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@MoviesBroker.Caching.UrlRequestCache`1">
-      <Item value="Instance" priority="1" />
+      <Item value="Instance" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:MoviesBroker.Caching.UrlRequestCache`1">
-      <Item value="Contains`0" priority="0" />
+      <Item value="Contains`0" priority="1" />
       <Item value="Get`0" priority="0" />
       <Item value="Add`0" priority="0" />
+      <Item value="GetOrAdd`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskCompletionSource`1">
+      <Item value="SetResult`0" priority="0" />
+      <Item value="Task" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.Task">
+      <Item value="Start`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
